@@ -3,7 +3,7 @@
     {
         "id":1,
         "category":"음악 퀴즈",
-        "content":[
+        "quiz":[
             {"id":0,
                 "question":"가장 큰 악기는?",
                 "correctAnswer":0,
