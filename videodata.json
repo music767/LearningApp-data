@@ -8,13 +8,13 @@
                 "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
             {"id":1,
                 "title":"비디오1",
-                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
+                "address": "https://music767.github.io/LearningApp-data/mus1.mp4"},
             {"id":2,
                 "title":"비디오2",
-                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
+                "address": "https://music767.github.io/LearningApp-data/mus2.mp4"},
             {"id":3,
                 "title":"비디오3",
-                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"}
+                "address": "https://music767.github.io/LearningApp-data/mus3.mp4"}
         ]
     }
 ]
