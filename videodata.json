@@ -1,23 +1,21 @@
+
 [
     {
         "id":0,
-        "title":"음악 퀴즈",
+        "title":"기본 퀴즈",
         "vid":[
             {"id":0,
-                "description":"가장 큰 악기는?",
-                "location":0},
+                "description":"가장 빠른 것은?",
+                "location":"asdfasdf",
+                "answer":["비행기", "자동차", "사람"]},
             {"id":1,
-                "description":"가장 큰 악기는?",
-                "location":0},
+                "description":"과일이 아닌것은??",
+                "location":"asdfasdf",
+                "answer":["사과", "복숭아", "차"]},
             {"id":2,
-                "description":"가장 큰 악기는?",
-                "location":0},
-            {"id":3,
-                "description":"가장 큰 악기는?",
-                "location":0},
-               {"id":4,
-                "description":"가장 큰 악기는?",
-                "location":0}
+                "description":"곡식이 아닌것은?",
+                "location":"asdfasdf",
+                "answer":["쌀", "감자", "밀"]}
         ]
     }
 ]
