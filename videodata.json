@@ -1,23 +1,20 @@
-
 [
     {
         "id":0,
-        "title":"기본 퀴즈",
-        "vid":[
+        "title":"온라인 비디오",
+        "videos":[
             {"id":0,
-                "description":"가장 빠른 것은?",
-                "location":"asdfasdf",
-                "answer":["비행기", "자동차", "사람"]},
+                "title":"비디오",
+                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
             {"id":1,
-                "description":"과일이 아닌것은??",
-                "location":"asdfasdf",
-                "answer":["사과", "복숭아", "차"]},
+                "title":"비디오1",
+                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
             {"id":2,
-                "description":"곡식이 아닌것은?",
-                "location":"asdfasdf",
-                "answer":["쌀", "감자", "밀"]}
+                "title":"비디오2",
+                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"},
+            {"id":3,
+                "title":"비디오3",
+                "address": "https://music767.github.io/LearningApp-data/mus0.mp4"}
         ]
     }
 ]
-
-
