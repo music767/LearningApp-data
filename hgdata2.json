@@ -6,24 +6,19 @@
         "quiz":[
             {"id":0,
                 "question":"가장 큰 악기는?",
-                "correctAnswer":0,
-                "answer":["튜바", "피콜로", "클라리넷"]},
+                "correctAnswer":0},
             {"id":1,
                 "question":"고전파 작곡가는?",
-                "correctAnswer":1,
-                "answer":["쇼팽", "하이든", "라벨"]},
+                "correctAnswer":1},
             {"id":2,
                 "question":"음악가가 아닌 사람은?",
-                "correctAnswer":2,
-                "answer":["장한나", "정명훈", "박찬호"]},
+                "correctAnswer":2},
             {"id":3,
                 "question":"두 음사이의 거리를 음악용어로?",
-                "correctAnswer":1,
-                "answer":["화성학", "음정", "리듬"]},
+                "correctAnswer":1},
             {"id":4,
                 "question":"현으로 된 악기는?",
-                "correctAnswer":0,
-                "answer":["대북", "바이올린", "트럼펫"]}
+                "correctAnswer":0}
         ]
     }
 ]
